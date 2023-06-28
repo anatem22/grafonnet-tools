@@ -1,0 +1,7 @@
+PyYAML==5.3.1
+urllib3==1.26.7
+requests==2.27.1
+simplejson==3.17.6
+flask==2.0.2
+flask-apscheduler==1.12.3
+werkzeug==2.0.0
